@@ -1,0 +1,1 @@
+rpm --initdb --root /tmp/rpmrepo --dbpath /tmp/rpmrepo/var/lib/rpm

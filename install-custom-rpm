@@ -1,0 +1,1 @@
+rpm --root /tmp/rpmrepo --relocate /boost_1_52_0=/tmp/local/boost_1_52_0 --relocate /shibboleth-sp=/tmp/local/shibboleth-sp --nodeps -ivh /dmp2/local/shibboleth-sp-2.5.2-1.x86_64.rpm

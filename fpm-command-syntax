@@ -1,0 +1,1 @@
+~kweiss/puppet/bin/fpm -s dir -t rpm -C /dmp2/local --name shibboleth-sp --version 2.5.2 --iteration 1 --config-files ./shibboleth-sp/etc/shibboleth/shibboleth2.xml --config-files ./shibboleth-sp/etc/shibboleth/attribute-map.xml --config-files ./shibboleth-sp/etc/shibboleth/attribute-policy.xml .
