@@ -1,0 +1,18 @@
+rpm -qip /dmp2/RPMS/yaml-for-dmp2-0.1.4-2.x86_64.rpm
+
+Name        : yaml-for-dmp2                Relocations: / 
+Version     : 0.1.4                             Vendor: dmp2@cdl-dmp2-p01
+Release     : 2                             Build Date: Wed 27 Nov 2013 09:34:26 AM PST
+Install Date: (not installed)               Build Host: cdl-dmp2-p01.ucop.edu
+Group       : default                       Source RPM: yaml-for-dmp2-0.1.4-2.src.rpm
+Size        : 915124                           License: unknown
+Signature   : (none)
+Packager    : <dmp2@cdl-dmp2-p01>
+URL         : http://example.com/no-uri-given
+Summary     : creates relocatable directories /include, /lib
+Description :
+creates relocatable directories /include, /lib
+Distribution: (none)
+
+Note the 'Description' field, where I tell you what the relocatable directories are, so you know what to
+enter when you install the package.
